@@ -1,8 +1,8 @@
 /** @format */
 
-import { Address } from './address';
-import { CountryCode } from './country';
-import { Customer } from './customer';
+import { Address } from './Address';
+import { CountryCode } from './Country';
+import { Customer } from './Customer';
 import { OrderLine } from './OrderLine';
 
 export type Order = {

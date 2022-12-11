@@ -1,6 +1,6 @@
 /** @format */
 
-import { Item } from './item';
+import { Item } from './Item';
 
 export type OrderLine = {
 	'@seq': number;
