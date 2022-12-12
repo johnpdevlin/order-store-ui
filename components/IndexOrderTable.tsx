@@ -21,7 +21,7 @@ function IndexOrderTable(props: { orders: Order[] }): JSX.Element {
 				<tbody>
 					{orders.map((o) => {
 						return (
-							<tr>
+							<tr key={o.ReferenceNum}>
 								<td>
 									<Link href={`./customer/${o.Customer.CustomerCode}`}>
 										{o.Customer.CustomerCode}

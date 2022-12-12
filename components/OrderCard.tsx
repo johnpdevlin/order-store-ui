@@ -26,7 +26,7 @@ function OrderCard({ referenceNum, orderLines }: OrderCardProps): JSX.Element {
 						<tbody>
 							{orderLines.map((o) => {
 								return (
-									<tr>
+									<tr key={o.ItemNum}>
 										<td>{o.ItemNum}</td>
 										<td>{o.ItemDescription}</td>
 									</tr>
