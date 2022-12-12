@@ -9,7 +9,7 @@ import CustomerCard from '../../components/CustomerCard';
 import OrderCard from '../../components/OrderCard';
 import { Order } from '../../models/Order';
 
-function Customer(order: Order): JSX.Element {
+function Customer(order: any): JSX.Element {
 	const { ReferenceNum, CountryCode, Address, OrderLines, Customer } =
 		order.order;
 
