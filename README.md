@@ -11,21 +11,21 @@ Install dependencies: npm install
 Start the development server: npm start
 Open the application in a web browser at http://localhost:3000
 
-##Usage
+## Usage
 The application allows users to perform the following actions:
 
 View a list of orders
 Filter orders by date or status
 View details of an order
 
-##Technologies Used
+## Technologies Used
 The following technologies were used to build this application:
 
 React
 React Router
 Axios
 
-##Contributing
+## Contributing
 Contributions to this project are welcome. To contribute:
 
 Fork the repository
@@ -34,5 +34,5 @@ Make changes and commit them: git commit -am 'Add new feature'
 Push to the branch: git push origin my-feature
 Create a pull request
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
