@@ -1,6 +1,6 @@
 # Order Store UI
 
-Order Store UI is a web application that allows users to view and manage orders in a store. The application is built using React, and communicates with a backend json file which provides dummy data.
+Order Store UI is a very simple web application that allows users to view and manage orders in a store. The application is built using React, Next.js and Bootstrap and communicates with a backend json file which provides dummy data.
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ The following technologies were used to build this application:
 
 Next.js
 React
-Axios
+Bootstrap
 
 ## Contributing
 Contributions to this project are welcome. To contribute:
