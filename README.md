@@ -28,7 +28,7 @@ Bootstrap
 ## Contributing
 Contributions to this project are welcome. To contribute:
 
-Fork the repository
+## Fork the repository
 Create a new branch: git checkout -b my-feature
 Make changes and commit them: git commit -am 'Add new feature'
 Push to the branch: git push origin my-feature
